@@ -2,14 +2,13 @@
 #include <vector>
 using namespace std;
 
-int SingleNumber(vector<int>& nums) {
-    int ans =0;
-
-    for(int i=0; i<nums.size(); i++){
-        ans = ans ^ nums[i];
+int SingleNumber(const vector<int>& nums) {
+    int ans = 0;
+    for (int value : nums) {
+        ans ^= value;
     }
     return ans;
-};
+}
 
 int main() {
     vector<int> nums = {4, 1, 2, 1, 2};
