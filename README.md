@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gajit9147-dev/DSA-With-C-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
